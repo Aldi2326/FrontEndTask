@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Frontend-task</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_list">List Anime</string>
+    <string name="menu_about">About Me</string>
+
+</resources>
